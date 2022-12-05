@@ -3,7 +3,7 @@ An ortholinear, ergo, monoblock keyboard with some additional enhancements
 
 Inspired by the Krampus, a half-man and half-goat, Bavarian match to Santa Claus, this keyboard is meant to inspire the badly behaved children inside of us all.
 
-# Plans:
+# Current State:
 
 | State | Status | Issues | ETA |
 |-------|--------|--------|-----|

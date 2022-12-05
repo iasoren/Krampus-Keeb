@@ -11,8 +11,7 @@ Inspired by the Krampus, a half-man and half-goat, Bavarian match to Santa Claus
 | PCB | next up | x | x |
 
 
-- [ ] Schematic
-- [ ] PCB Layout
+## Goals
 - [ ] Wireless RP2040 support
 - [ ] 2x rotary encoder
 - [ ] 1x Side encoder

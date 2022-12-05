@@ -4,6 +4,13 @@ An ortholinear, ergo, monoblock keyboard with some additional enhancements
 Inspired by the Krampus, a half-man and half-goat, Bavarian match to Santa Claus, this keyboard is meant to inspire the badly behaved children inside of us all.
 
 # Plans:
+
+| State | Status | Issues | ETA |
+|-------|--------|--------|-----|
+| Schematic| Starting | x | x |
+| PCB | next up | x | x |
+
+
 - [ ] Schematic
 - [ ] PCB Layout
 - [ ] Wireless RP2040 support

@@ -4,15 +4,15 @@ An ortholinear, ergo, monoblock keyboard with some additional enhancements
 Inspired by the Krampus, a half-man and half-goat, Bavarian match to Santa Claus, this keyboard is meant to inspire the badly behaved children inside of us all.
 
 # Plans:
-- [ ]: Hotswap Keyboard Matrix/PCB
-- [ ]: Wireless RP2040 support
-- [ ]: 2x rotary encoder
-- [ ]: 1x Side encoder
-- [ ]: RGB Underglow
-- [ ]: Key backlight
-- [ ]: PCB Artwork
-- [ ]: Fingerprint reader for mac
-- [ ]: Trackball support
-- [ ]: Firmware
-- [ ]: Acrylic case
-- [ ]: Wooden/metal/acrylic mixed case
+- [ ] Hotswap Keyboard Matrix/PCB
+- [ ] Wireless RP2040 support
+- [ ] 2x rotary encoder
+- [ ] 1x Side encoder
+- [ ] RGB Underglow
+- [ ] Key backlight
+- [ ] PCB Artwork
+- [ ] Fingerprint reader for mac
+- [ ] Trackball support
+- [ ] Firmware
+- [ ] Acrylic case
+- [ ] Wooden/metal/acrylic mixed case
